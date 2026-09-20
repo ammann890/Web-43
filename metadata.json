@@ -1,0 +1,6 @@
+{
+  "name": "Global Express",
+  "description": "Global Express minimalist logistics tracking platform with parcel dimensions and recipient delivery verification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
